@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const FriendDiv = styled.div`
     border: 1px solid black;
     border-radius: .5rem;
-    width: 28%;
+    width: 29%;
     margin: 1rem 1rem;
 `
 const Data = styled.div`
